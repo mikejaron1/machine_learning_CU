@@ -1,0 +1,24 @@
+---
+title: "HW5_ML"
+author: "Mike Jaron"
+date: "4/19/2017"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+# 1.
+## a)
+![](hw5_1a.png)
+
+## b)
+![](hw5_1b.png)
+
+
+# 2.
+## a)
+![](hw5_2a.png)
+
+
+## b)
+![](hw5_2b.png)
